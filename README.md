@@ -88,7 +88,7 @@ Here are some ideas to get you started:
     </td>
 
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="icon" width="55" height="55" />
       <br>Typescript
     </td>
 
@@ -187,9 +187,8 @@ Here are some ideas to get you started:
       <img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="Next.js" />
       <br>Jenkins
     </td>
-
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="Next.js" />
       <br>Github
     </td>
   </tr>

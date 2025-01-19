@@ -87,7 +87,7 @@ Here are some ideas to get you started:
       <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
       <br>Typescript
     </td>
   </tr>

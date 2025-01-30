@@ -9,20 +9,20 @@
 
 I love building applications and writing code. Most of my professional career has been focused on web and mobile
 applications. Apart from using a variety of frameworks for building web applications, most of them have been built using
-React and frameworks built around it. I enjoy coding in Ruby and Python, but most of the applications I have built so
+React and frameworks built around it. I enjoy coding in React, Angular, NodeJS, C#, and Python, but most of the applications I have built so
 far are with JavaScript and TypeScript.
 
-I graduated from University of Pisa and am a former retail manager with a unique approach to problem-solving. I don’t shy
+I graduated from the University of Pisa and am a former retail manager with a unique approach to problem-solving. I don’t shy
 away from challenges and consider myself a self-motivated developer. I enjoy working in teams, learning processes, and
 lending a hand when needed.
 
 I am always looking for ways to expand my knowledge, improve myself or my environment, learn from colleagues, or teach
 new skills in a variety of possible ways.
 
-My skills include, but are not limited to, coding, traveling, mixing cocktails, building applications and software, and
+My skills include but are not limited to, coding, traveling, mixing cocktails, building applications and software, and
 enjoying the sunshine. Proficiency ranges from excellent to absolutely awful.
 
-My projects range from stand-alone apps to full stack applications.
+My projects range from stand-alone apps to full-stack applications.
 Also cats 🐱 & traveling 🚀
 
 ---
@@ -30,7 +30,7 @@ Also cats 🐱 & traveling 🚀
 <!-- ### My skills
 
 - Programming Languages: JavaScript, TypeScript, Ruby, Python
-- Frameworks: NextJS, Astro and various frameworks built around React
+- Frameworks: NextJS, Astro, and various frameworks built around React
 - Development Focus: Front-end & full stack development, mobile applications
 - Additional Skills: Application and software development, coding best practices, problem-solving
 - Soft Skills: Team collaboration, continuous learning, adaptability

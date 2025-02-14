@@ -8,9 +8,9 @@
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/ancerys/) -->
 
 I love building applications and writing code. Most of my professional career has been focused on web and mobile
-applications. Apart from using a variety of frameworks for building web applications, most of them have been built using
+applications. Apart from using a variety of frameworks for building web applications, most of them have been built using 
 React and frameworks built around it. I enjoy coding in React, Angular, NodeJS, C#, and Python, but most of the applications I have built so
-far are with JavaScript and TypeScript.
+far are with JavaScript and TypeScript. 
 
 I graduated from the University of Pisa and am a former retail manager with a unique approach to problem-solving. I don’t shy
 away from challenges and consider myself a self-motivated developer. I enjoy working in teams, learning processes, and
